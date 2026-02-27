@@ -1,0 +1,16 @@
+.filters {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.filters input {
+  padding: 8px 12px;
+  font-size: 14px;
+  width: 250px;
+}
+
+.filters button {
+  padding: 8px 12px;
+  cursor: pointer;
+}

@@ -1,0 +1,17 @@
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+th,
+td {
+  padding: 8px;
+  border: 1px solid #ddd;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.icon {
+  cursor: pointer;
+}
