@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pepeon/usersTable/static/css/main.cc35b5a5.css",
+    "main.js": "/pepeon/usersTable/static/js/main.87174cb0.js",
+    "index.html": "/pepeon/usersTable/index.html",
+    "main.cc35b5a5.css.map": "/pepeon/usersTable/static/css/main.cc35b5a5.css.map",
+    "main.87174cb0.js.map": "/pepeon/usersTable/static/js/main.87174cb0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc35b5a5.css",
+    "static/js/main.87174cb0.js"
+  ]
+}
